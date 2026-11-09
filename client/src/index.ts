@@ -1,3 +1,4 @@
+import "./index.css"
 import { serve } from "bun";
 import index from "./index.html";
 
